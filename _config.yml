@@ -23,7 +23,7 @@ repository               : "Robyn518/Robyn518.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/avatar.png?v=2"
+  avatar           : "images/avatar.png"
   name             : "Wang YiMeng(王以萌)"
   pronouns         : # example: "she/her"  
   bio              : "Peking University"
