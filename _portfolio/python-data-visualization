@@ -9,6 +9,9 @@ excerpt: "利用Python进行数据可视化分析，展示数据特征与规律�
 excerpt: "1.不同机器学习模型的诊断性能ROC曲线对比<br/><img src='/images/line_chart.jpg'>"
 collection: portfolio
 
+excerpt: "2.随机森林模型中Top15关键临床特征的重要性排序<br/><img src='/images/bar_chart.jpg'>"
+collection: portfolio
+
 header:
   teaser: /images/portfolio/python-data-visualization/line_chart.jpg
 tags:
