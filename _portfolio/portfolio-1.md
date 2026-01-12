@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "python数据可视化"
+excerpt: "不同机器学习模型的诊断性能ROC曲线对比<br/><img src='/images/line.png'>"
 collection: portfolio
 ---
 
