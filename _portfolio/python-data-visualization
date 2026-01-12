@@ -1,0 +1,14 @@
+---
+title: "Python数据可视化项目"
+collection: portfolio
+type: "Data Analysis"
+permalink: /portfolio/python-data-visualization
+date: 2024-07-01
+excerpt: "利用Python进行数据可视化分析，展示数据特征与规律。"
+header:
+  teaser: /images/portfolio/python-data-visualization/bar_chart.png
+tags:
+  - Python
+  - 数据可视化
+tech_stack:
+  - name: Python
