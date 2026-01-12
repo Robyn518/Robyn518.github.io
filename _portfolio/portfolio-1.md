@@ -1,6 +1,6 @@
 #---
 #title: "python数据可视化"
-#excerpt: "不同机器学习模型的诊断性能ROC曲线对比<br/><img src='/images/line_chart.jpg'>"
+#excerpt: "1.不同机器学习模型的诊断性能ROC曲线对比<br/><img src='/images/line_chart.jpg'>"
 #collection: portfolio
 #---
 
